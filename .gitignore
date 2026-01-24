@@ -1,0 +1,9 @@
+node_modules
+.env
+build
+dist
+violations.json
+package-lock.json
+frontend/node_modules
+backend/node_modules
+blockchain/node_modules
