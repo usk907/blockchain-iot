@@ -28,7 +28,7 @@ Run order:
 ![Historical Factories](screenshots/device-registry-history.png)
 
 ### Real Arduino Monitor
-![Real Arduino Monitor](screenshots/WhatsApp Image 2026-04-26 at 1.25.03 PM (1).jpeg)
+![Real Arduino Monitor](screenshots/WhatsApp Image 2026-04-26 at 1.25.03 PM (1).png)
 
 ### Alert Notifications Center
 ![Notifications](screenshots/notifications.png)
