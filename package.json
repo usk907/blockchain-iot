@@ -1,4 +1,9 @@
 {
   "name": "blockchain-iot-project",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "devDependencies": {
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  }
 }

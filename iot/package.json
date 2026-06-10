@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "arduino": "node arduino_reader.js",
+    "arduino:ports": "node arduino_reader.js --list-ports",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.13.2"
+    "axios": "^1.13.2",
+    "blockchain-iot-project": "file:..",
+    "serialport": "^12.0.0"
   }
 }

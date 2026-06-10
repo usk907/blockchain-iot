@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "deviceId": "realdevice",
+    "factoryId": "123",
+    "deviceType": "iot_module",
+    "walletAddress": "",
+    "apiKeyHash": "dc129fe621de321292f1ab20f0ccd3ab5577b872ccd323fd6e81cfcbddaa835e",
+    "createdAt": "2026-03-06T21:04:40.773Z"
+  },
+  {
+    "deviceId": "company1",
+    "factoryId": "factory-1",
+    "deviceType": "demo_device",
+    "walletAddress": "",
+    "apiKeyHash": "70b701b7e725ddc2722a783671fe9f4766c43714303a1435593f6aa9e0ad1c84",
+    "createdAt": "2026-03-06T21:25:12.120Z"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "archiveId": "ARCHIVE_1772521439972_SMOKE_DEV_1771326485",
+    "fileName": "SMOKE_DEV_1771326485_1772521439971.pdf",
+    "deviceId": "SMOKE_DEV_1771326485",
+    "factoryId": "FACTORY_SMOKE",
+    "removedAt": "2026-03-03T07:03:59.970Z",
+    "relation": "device_id",
+    "recordsIncluded": 100,
+    "createdAt": "2026-03-03T07:03:59.972Z",
+    "downloadPath": "/api/devices/archives/SMOKE_DEV_1771326485_1772521439971.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772521442701_TEST_DEV_1771327562",
+    "fileName": "TEST_DEV_1771327562_1772521442699.pdf",
+    "deviceId": "TEST_DEV_1771327562",
+    "factoryId": "FACTORY_TEST",
+    "removedAt": "2026-03-03T07:04:02.699Z",
+    "relation": "device_id",
+    "recordsIncluded": 92,
+    "createdAt": "2026-03-03T07:04:02.701Z",
+    "downloadPath": "/api/devices/archives/TEST_DEV_1771327562_1772521442699.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772521445656_demo",
+    "fileName": "demo_1772521445654.pdf",
+    "deviceId": "demo",
+    "factoryId": "new",
+    "removedAt": "2026-03-03T07:04:05.652Z",
+    "relation": "device_id",
+    "recordsIncluded": 93,
+    "createdAt": "2026-03-03T07:04:05.657Z",
+    "downloadPath": "/api/devices/archives/demo_1772521445654.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772521448209_FACTORY_001_DEMO",
+    "fileName": "FACTORY_001_DEMO_1772521448208.pdf",
+    "deviceId": "FACTORY_001_DEMO",
+    "factoryId": "FACTORY_001",
+    "removedAt": "2026-03-03T07:04:08.207Z",
+    "relation": "device_id",
+    "recordsIncluded": 181,
+    "createdAt": "2026-03-03T07:04:08.209Z",
+    "downloadPath": "/api/devices/archives/FACTORY_001_DEMO_1772521448208.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772810420684_demo",
+    "fileName": "demo_1772810420682.pdf",
+    "deviceId": "demo",
+    "factoryId": "demo1",
+    "removedAt": "2026-03-06T15:20:20.679Z",
+    "relation": "device_id",
+    "recordsIncluded": 466,
+    "createdAt": "2026-03-06T15:20:20.684Z",
+    "downloadPath": "/api/devices/archives/demo_1772810420682.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772810423713_ESP32_001",
+    "fileName": "ESP32_001_1772810423713.pdf",
+    "deviceId": "ESP32_001",
+    "factoryId": "FACTORY_001",
+    "removedAt": "2026-03-06T15:20:23.711Z",
+    "relation": "device_id",
+    "recordsIncluded": 294,
+    "createdAt": "2026-03-06T15:20:23.714Z",
+    "downloadPath": "/api/devices/archives/ESP32_001_1772810423713.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772810427074_ESP32_002",
+    "fileName": "ESP32_002_1772810427071.pdf",
+    "deviceId": "ESP32_002",
+    "factoryId": "FACTORY_001",
+    "removedAt": "2026-03-06T15:20:27.067Z",
+    "relation": "device_id",
+    "recordsIncluded": 292,
+    "createdAt": "2026-03-06T15:20:27.074Z",
+    "downloadPath": "/api/devices/archives/ESP32_002_1772810427071.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772810430002_realdevice",
+    "fileName": "realdevice_1772810430001.pdf",
+    "deviceId": "realdevice",
+    "factoryId": "123",
+    "removedAt": "2026-03-06T15:20:29.999Z",
+    "relation": "device_id",
+    "recordsIncluded": 99,
+    "createdAt": "2026-03-06T15:20:30.002Z",
+    "downloadPath": "/api/devices/archives/realdevice_1772810430001.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772810432658_SMOKE_1772808716",
+    "fileName": "SMOKE_1772808716_1772810432657.pdf",
+    "deviceId": "SMOKE_1772808716",
+    "factoryId": "FACTORY_SMOKE",
+    "removedAt": "2026-03-06T15:20:32.657Z",
+    "relation": "device_id",
+    "recordsIncluded": 4,
+    "createdAt": "2026-03-06T15:20:32.658Z",
+    "downloadPath": "/api/devices/archives/SMOKE_1772808716_1772810432657.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772810435448_SMOKE_IO_1772809164",
+    "fileName": "SMOKE_IO_1772809164_1772810435447.pdf",
+    "deviceId": "SMOKE_IO_1772809164",
+    "factoryId": "FACTORY_SMOKE",
+    "removedAt": "2026-03-06T15:20:35.447Z",
+    "relation": "device_id",
+    "recordsIncluded": 1,
+    "createdAt": "2026-03-06T15:20:35.448Z",
+    "downloadPath": "/api/devices/archives/SMOKE_IO_1772809164_1772810435447.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772810757533_realdevice",
+    "fileName": "realdevice_1772810757531.pdf",
+    "deviceId": "realdevice",
+    "factoryId": "123",
+    "removedAt": "2026-03-06T15:25:57.526Z",
+    "relation": "device_id",
+    "recordsIncluded": 99,
+    "createdAt": "2026-03-06T15:25:57.533Z",
+    "downloadPath": "/api/devices/archives/realdevice_1772810757531.pdf"
+  },
+  {
+    "archiveId": "ARCHIVE_1772830524816_realdevice",
+    "fileName": "realdevice_1772830524815.pdf",
+    "deviceId": "realdevice",
+    "factoryId": "123",
+    "removedAt": "2026-03-06T20:55:24.810Z",
+    "relation": "device_id",
+    "recordsIncluded": 99,
+    "createdAt": "2026-03-06T20:55:24.817Z",
+    "downloadPath": "/api/devices/archives/realdevice_1772830524815.pdf"
+  }
+]

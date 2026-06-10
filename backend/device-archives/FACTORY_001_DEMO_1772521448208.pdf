@@ -1,0 +1,469 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2499 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+(Industrial Emission Monitoring System - Device Archive) Tj
+0 -14 Td
+(Generated: 2026-03-03T07:04:08.208Z) Tj
+0 -14 Td
+(Removed Device ID: FACTORY_001_DEMO) Tj
+0 -14 Td
+(Factory ID: FACTORY_001) Tj
+0 -14 Td
+(Device Type: demo_device) Tj
+0 -14 Td
+(Created At: 2026-02-28T00:00:00.000Z) Tj
+0 -14 Td
+(Removed At: 2026-03-03T07:04:08.207Z) Tj
+0 -14 Td
+(Record Match Strategy: device_id) Tj
+0 -14 Td
+(Matched Telemetry Records: 181) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Telemetry Snapshot:) Tj
+0 -14 Td
+(#1 2026-03-03T07:03:42.704Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=26.88 pm10=98.62 co2=769.22 emission_rate=8.88) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#2 2026-03-03T06:55:55.348Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=34.15 pm10=47.31 co2=643.55 emission_rate=9.24) Tj
+0 -14 Td
+(cid=QmT5dFrAHD6VE9A6vw9z3xXheF7cPMfNy2qpGXxtHxxoUX) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#3 2026-03-03T06:55:40.345Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=117.43 pm10=116.36 co2=601.5 emission_rate=14.71) Tj
+0 -14 Td
+(cid=QmfU6CN9ozbVaZy53ZNaLpHM9MLSi8URuDh73jdzdYwqdM) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#4 2026-03-03T06:55:25.343Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=43.36 pm10=67.5 co2=717.55 emission_rate=8.35) Tj
+0 -14 Td
+(cid=QmTEJ7e6LbEJAMvcxfknfo7LRZonLXyhoQ4JpHEzfPY6QF) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#5 2026-03-03T06:55:10.332Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=86.06 pm10=40.21 co2=791.96 emission_rate=13.03) Tj
+0 -14 Td
+(cid=Qmd4o2VRXRoQEiHgX9Z69U74uKha3igPCUXhYd8yamRHYc) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#6 2026-03-03T06:54:40.320Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=119.39 pm10=41.41 co2=727.56 emission_rate=8.94) Tj
+0 -14 Td
+(cid=QmX7gjGxcEHPrS2k6Wm6corufGNNk3Qu4w9ozNfKsdhFvn) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#7 2026-03-03T06:54:25.311Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=45.47 pm10=120.26 co2=870.62 emission_rate=15.23) Tj
+0 -14 Td
+(cid=QmU9AJx5mhZQVtA8SDfT84s5czHxQ8voECzCLdCXkVQzZA) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#8 2026-03-03T06:54:10.285Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=35.53 pm10=109.11 co2=612.13 emission_rate=12.75) Tj
+0 -14 Td
+(cid=QmQ6iiFiP6bdxEa1nmQ9VqudBnmDS5SZ9vW9kvUDLHMY99) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#9 2026-03-03T06:53:55.279Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=40.02 pm10=53.2 co2=638.24 emission_rate=12.28) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2609 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+(#10 2026-03-03T06:53:40.270Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=93.42 pm10=80.19 co2=781.02 emission_rate=14.79) Tj
+0 -14 Td
+(cid=QmTMX3nm5RpfggZ573qVXSPYMYGMZP8orrdWqNzFrUAeeH) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#11 2026-03-03T06:53:25.257Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=22.9 pm10=60.73 co2=792.3 emission_rate=11.95) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#12 2026-03-03T06:53:10.257Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=97.93 pm10=40.94 co2=1168.69 emission_rate=9.63) Tj
+0 -14 Td
+(cid=QmWAeGGbwpBoMhYgZuBLNJgefcjNA4aRjgRHPGjHEkuBG6) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#13 2026-03-03T06:52:55.256Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=46.78 pm10=88.87 co2=637.36 emission_rate=15.82) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#14 2026-03-03T06:52:40.235Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=50.78 pm10=87.76 co2=521.62 emission_rate=9.78) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#15 2026-03-03T06:52:25.226Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=73.14 pm10=29.04 co2=563.07 emission_rate=15.06) Tj
+0 -14 Td
+(cid=QmYdrEUJtiNCiodvmyBx9chgisjWt8EEzGsgQT44kcLVwm) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#16 2026-03-03T06:52:10.210Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=50.86 pm10=53.07 co2=719.21 emission_rate=11.43) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#17 2026-03-03T06:51:55.210Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=21.94 pm10=66.63 co2=783.02 emission_rate=14.81) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#18 2026-03-03T06:51:40.209Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=24.97 pm10=102.31 co2=831.56 emission_rate=15.51) Tj
+0 -14 Td
+(cid=QmPistZHpko3e6en5XhwHM92ySNjtLNVU33QKwxs8112uy) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#19 2026-03-03T06:51:25.191Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=34.87 pm10=86.63 co2=759.26 emission_rate=9.65) Tj
+0 -14 Td
+(cid=QmWQEDepg8voqaZDJtp8m32qyzYc7srhg1CYU4RjZmfzmc) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#20 2026-03-03T06:51:10.191Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=58.4 pm10=41.53 co2=837.3 emission_rate=12.64) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#21 2026-03-03T06:50:40.173Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=28.74 pm10=48.25 co2=716.84 emission_rate=8.09) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#22 2026-03-03T06:50:25.171Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=37.4 pm10=45.42 co2=572.87 emission_rate=8.56) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#23 2026-03-03T06:50:10.160Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2591 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+(pm2_5=29.46 pm10=64.34 co2=535.19 emission_rate=15.86) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#24 2026-03-03T06:49:55.143Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=55.98 pm10=47.8 co2=501.23 emission_rate=12.49) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#25 2026-03-03T06:49:10.109Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=41.12 pm10=92.94 co2=987.02 emission_rate=10.21) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#26 2026-03-03T06:48:55.107Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=50 pm10=49.94 co2=854.27 emission_rate=8.74) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#27 2026-03-03T06:48:40.107Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=107.59 pm10=52.94 co2=760.33 emission_rate=8.21) Tj
+0 -14 Td
+(cid=QmR3ApGwRGT9ARoSK2tJ6RByFUeBAHA3bbr1vCuAaVijPc) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#28 2026-03-03T06:48:25.100Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=51.29 pm10=78.45 co2=707.1 emission_rate=13.01) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#29 2026-03-03T06:48:10.099Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=51.44 pm10=80.79 co2=1112.03 emission_rate=6.3) Tj
+0 -14 Td
+(cid=QmPymbNDNXavD5fcPBHwTVU6wmpYE9Dndd1Pi971R3svBZ) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#30 2026-03-03T06:47:55.099Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=132.51 pm10=98.88 co2=845.68 emission_rate=15.17) Tj
+0 -14 Td
+(cid=QmcMjag4B7c38yv4b9DecP8ozTpXUE7yZDFHxparTejgQq) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#31 2026-03-03T06:47:40.067Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=55.67 pm10=135.4 co2=797.63 emission_rate=13.75) Tj
+0 -14 Td
+(cid=QmWizExHqJfJNZxxEhbBRXfaHMEYkdKi1fLHzC4vKSikrA) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#32 2026-03-03T06:47:25.053Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=50.44 pm10=86.02 co2=510.63 emission_rate=6.96) Tj
+0 -14 Td
+(cid=QmWiKr6TLVSEUpS3rHNWhTsahJGhF1dUcJnj1NtTgJQUY9) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#33 2026-03-03T06:47:10.037Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=22.83 pm10=145.28 co2=528.65 emission_rate=12.17) Tj
+0 -14 Td
+(cid=QmQr5d4pKfR5UJX2sMgaP3KBuzPWBDbe8EuNCubTtdmEsf) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#34 2026-03-03T06:46:55.025Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=28.91 pm10=54.29 co2=783.26 emission_rate=14.2) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#35 2026-03-03T06:46:40.024Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=27.64 pm10=60.34 co2=697.97 emission_rate=6.16) Tj
+0 -14 Td
+(cid=QmZqLXDFYe2C3Az25n8Yh8C9kA8yLHvbGkq3LsDhP9YFwV) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2664 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+(#36 2026-03-03T06:46:25.018Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=33.62 pm10=28.23 co2=585.8 emission_rate=14.43) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#37 2026-03-03T06:46:10.018Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=115.8 pm10=90.31 co2=494.44 emission_rate=12.04) Tj
+0 -14 Td
+(cid=Qmf9nbmqT6c2MCt9qMywovBKv4TbJYNx46ThE2Umsz3g5z) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#38 2026-03-03T06:45:54.999Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=33.23 pm10=92.32 co2=693.26 emission_rate=11.57) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#39 2026-03-03T06:45:39.995Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=27.5 pm10=83.54 co2=772.99 emission_rate=12.69) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#40 2026-03-03T06:45:24.996Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=50.55 pm10=66.95 co2=831.68 emission_rate=14.49) Tj
+0 -14 Td
+(cid=Qmb1FChXF1CUqNPNz9ph1y93R1qdBdKz5TKjhxosdteGsB) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#41 2026-03-03T06:45:09.993Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=115.66 pm10=56.08 co2=834.52 emission_rate=11.83) Tj
+0 -14 Td
+(cid=QmRBpTJwCiC4a3nuJyS31ettHaC7UF3a2ToH8GFARG541b) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#42 2026-03-03T06:44:54.986Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=38.89 pm10=56.54 co2=776.05 emission_rate=10.23) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#43 2026-03-03T06:44:39.966Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=33.46 pm10=114.66 co2=499.02 emission_rate=6.17) Tj
+0 -14 Td
+(cid=Qmddj5dmgHmcwo9hAZcbFLr89ti1Ljxwww1f48pXzGgBB7) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#44 2026-03-03T06:44:24.954Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=43.57 pm10=61.34 co2=814.69 emission_rate=7.75) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#45 2026-03-03T06:44:09.935Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=67.89 pm10=25.74 co2=573.94 emission_rate=6.97) Tj
+0 -14 Td
+(cid=QmQuacLuVamVtB6LQHoSyFhVenMf7sGkbnAmBx8nmrCaMJ) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#46 2026-03-03T06:43:54.922Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=55.92 pm10=66.01 co2=670.92 emission_rate=14.72) Tj
+0 -14 Td
+(cid=Qmd7UTxoBEoSC4ymzPPzA37oAueXDRQQGTJoDM1FQSG8zC) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#47 2026-03-03T06:43:39.896Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=37.81 pm10=86.23 co2=750.12 emission_rate=13.66) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#48 2026-03-03T06:43:37.549Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=124.69 pm10=68.60 co2=696.19 emission_rate=12.64) Tj
+0 -14 Td
+(cid=QmWEgWBSiRkL5ECHnbEWETkKDRKWR29FAPWrYtHgsL1tPe) Tj
+0 -14 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 13 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 498 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+() Tj
+0 -14 Td
+(#49 2026-03-03T06:43:32.541Z | status=VIOLATION | onChain=yes | total=10000) Tj
+0 -14 Td
+(pm2_5=80.80 pm10=93.50 co2=649.68 emission_rate=6.55) Tj
+0 -14 Td
+(cid=QmVM5omxJ9XBKNurNspUEHfxHhiTC8kgTwYXzzXV4Hfrma) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(#50 2026-03-03T06:43:27.541Z | status=NORMAL | onChain=no | total=0) Tj
+0 -14 Td
+(pm2_5=46.48 pm10=43.42 co2=771.93 emission_rate=11.13) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(... truncated 131 additional record\(s\).) Tj
+0 -14 Td
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000140 00000 n 
+0000000267 00000 n 
+0000002818 00000 n 
+0000002945 00000 n 
+0000005606 00000 n 
+0000005733 00000 n 
+0000008376 00000 n 
+0000008504 00000 n 
+0000011221 00000 n 
+0000011350 00000 n 
+0000011900 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+11971
+%%EOF

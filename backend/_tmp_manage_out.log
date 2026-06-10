@@ -1,0 +1,4 @@
+Backend running on port 5055
+Admin API key header: x-admin-key
+Using blockchain admin account: 0x1587c775dd2220D51C48aBEc290F01118d4938B4
+Using blockchain store account: 0x7b710a0Cfd7227B2d83b94fF18d2795094f1c712
