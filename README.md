@@ -16,3 +16,19 @@ Run order:
 5. Backend
 6. IoT device
 7. Frontend
+
+# Blockchain IoT Monitoring System
+
+## Dashboard Screenshots
+
+### Device Registry
+![Device Registry](screenshots/device-registry.png)
+
+### Historical Factories
+![Historical Factories](screenshots/device-registry-history.png)
+
+### Real Arduino Monitor
+![Real Arduino Monitor](screenshots/real-arduino-monitor.png)
+
+### Alert Notifications Center
+![Notifications](screenshots/notifications.png)
