@@ -24,11 +24,11 @@ Run order:
 ### Device Registry
 ![Device Registry](screenshots/device-registry.png)
 
-### Historical Factories
-![Historical Factories](screenshots/device-registry-history.png)
-
 ### Real Arduino Monitor
 ![Real Arduino Monitor](screenshots/real-arduino-monitor.png)
+
+### Historical Factories
+![Historical Factories](screenshots/device-registry-history.png)
 
 ### Alert Notifications Center
 ![Notifications](screenshots/notifications.png)
